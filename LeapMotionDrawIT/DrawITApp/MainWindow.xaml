@@ -1,0 +1,45 @@
+﻿<Window x:Class="DrawITApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DrawITApp"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="600" Width="900" MinHeight="350" MinWidth="730">
+	<Grid >
+		<Grid.ColumnDefinitions>
+			<ColumnDefinition Width="1*"/>
+			<ColumnDefinition Width="0.4*"/>
+            
+                
+			<ColumnDefinition Width="0.4*"/>
+			<ColumnDefinition Width="0.4*"/>
+            
+		</Grid.ColumnDefinitions>
+		<Grid.RowDefinitions>
+			<RowDefinition Height="0.1*"/>
+            <RowDefinition Height="0.1*"/>
+            <RowDefinition Height="1*"/>
+		</Grid.RowDefinitions>
+
+		<TextBlock x:Name="textBox1"> </TextBlock>
+        <TextBlock Grid.Row="1" x:Name="textBox2"></TextBlock>
+
+        <Button Background="#FF13AA13" Grid.Column ="2" Content="Start" Click="start_Leap" x:Name="button_start" FontSize="16"> </Button>
+        <Button Background="IndianRed" Grid.Column ="3" Content="Stop" Click="stop_Leap" x:Name="button_stop" FontSize="16" > </Button>
+        <Button  Grid.Row="1" Grid.Column ="3" Content="Effacer" Click="clear_Leap" x:Name="button_clear" Background="#FFDED5D5" FontSize="16"></Button>
+        <Button Grid.Row="1" Grid.Column ="2" Content="Couleur" Click="color_Leap" x:Name="button_color" FontSize="16" >
+            <Button.Background>
+                <ImageBrush ImageSource="arc.bmp"/>
+            </Button.Background>
+        </Button>
+        <Button Grid.Column ="1" Content="Sauvegarder image" Click="save_Leap" x:Name="button_save" Background="#FFDED5D5" FontSize="16"></Button>
+        <Button Grid.Column ="1" Grid.Row="1" Content="Importer image" Click="import_Leap" x:Name="button_import" Background="#FFDED5D5" FontSize="16"></Button>
+        
+        
+        <Border BorderThickness="2" BorderBrush="Black" Grid.Row="3" Grid.ColumnSpan="4">
+            <Canvas x:Name="zone" Grid.Row="3" Grid.ColumnSpan="4" >
+            </Canvas>
+        </Border>
+    </Grid>
+</Window>

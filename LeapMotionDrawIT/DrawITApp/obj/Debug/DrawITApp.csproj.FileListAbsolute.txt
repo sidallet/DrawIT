@@ -1,0 +1,69 @@
+U:\2\rv-leapmotion\LeapMotionDrawIT\DrawITApp\bin\Debug\DrawITApp.exe.config
+U:\2\rv-leapmotion\LeapMotionDrawIT\DrawITApp\bin\Debug\DrawITApp.exe
+U:\2\rv-leapmotion\LeapMotionDrawIT\DrawITApp\bin\Debug\DrawITApp.pdb
+U:\2\rv-leapmotion\LeapMotionDrawIT\DrawITApp\obj\Debug\MainWindow.g.cs
+U:\2\rv-leapmotion\LeapMotionDrawIT\DrawITApp\obj\Debug\App.g.cs
+U:\2\rv-leapmotion\LeapMotionDrawIT\DrawITApp\obj\Debug\DrawITApp_MarkupCompile.cache
+U:\2\rv-leapmotion\LeapMotionDrawIT\DrawITApp\obj\Debug\DrawITApp_MarkupCompile.lref
+U:\2\rv-leapmotion\LeapMotionDrawIT\DrawITApp\obj\Debug\MainWindow.baml
+U:\2\rv-leapmotion\LeapMotionDrawIT\DrawITApp\obj\Debug\DrawITApp.g.resources
+U:\2\rv-leapmotion\LeapMotionDrawIT\DrawITApp\obj\Debug\DrawITApp.Properties.Resources.resources
+U:\2\rv-leapmotion\LeapMotionDrawIT\DrawITApp\obj\Debug\DrawITApp.csproj.GenerateResource.cache
+U:\2\rv-leapmotion\LeapMotionDrawIT\DrawITApp\obj\Debug\DrawITApp.csproj.CoreCompileInputs.cache
+U:\2\rv-leapmotion\LeapMotionDrawIT\DrawITApp\obj\Debug\DrawITApp.exe
+U:\2\rv-leapmotion\LeapMotionDrawIT\DrawITApp\obj\Debug\DrawITApp.pdb
+U:\2\rv-leapmotion\LeapMotionDrawIT\DrawITApp\obj\Debug\DrawITApp.csproj.AssemblyReference.cache
+U:\2\rv-leapmotion\LeapMotionDrawIT\DrawITApp\bin\Debug\Modèle.dll
+U:\2\rv-leapmotion\LeapMotionDrawIT\DrawITApp\bin\Debug\Assembly-CSharp.dll
+U:\2\rv-leapmotion\LeapMotionDrawIT\DrawITApp\bin\Debug\UnityEngine.CoreModule.dll
+U:\2\rv-leapmotion\LeapMotionDrawIT\DrawITApp\bin\Debug\Modèle.pdb
+U:\2\rv-leapmotion\LeapMotionDrawIT\DrawITApp\obj\Debug\DrawITApp.csproj.CopyComplete
+U:\ProjetLeapMotion\rv-leapmotion\LeapMotionDrawIT\DrawITApp\obj\Debug\DrawITApp.csproj.AssemblyReference.cache
+U:\ProjetLeapMotion\rv-leapmotion\LeapMotionDrawIT\DrawITApp\obj\Debug\MainWindow.g.cs
+U:\ProjetLeapMotion\rv-leapmotion\LeapMotionDrawIT\DrawITApp\obj\Debug\App.g.cs
+U:\ProjetLeapMotion\rv-leapmotion\LeapMotionDrawIT\DrawITApp\obj\Debug\DrawITApp_MarkupCompile.cache
+U:\ProjetLeapMotion\rv-leapmotion\LeapMotionDrawIT\DrawITApp\obj\Debug\DrawITApp_MarkupCompile.lref
+U:\ProjetLeapMotion\rv-leapmotion\LeapMotionDrawIT\DrawITApp\obj\Debug\DrawITApp.exe
+U:\ProjetLeapMotion\rv-leapmotion\LeapMotionDrawIT\DrawITApp\obj\Debug\DrawITApp.pdb
+U:\2A LeapMotion\projet-leapmotion-v2\LeapMotionDrawIT\DrawITApp\obj\Debug\MainWindow.g.cs
+U:\2A LeapMotion\projet-leapmotion-v2\LeapMotionDrawIT\DrawITApp\obj\Debug\App.g.cs
+U:\2A LeapMotion\projet-leapmotion-v2\LeapMotionDrawIT\DrawITApp\obj\Debug\DrawITApp_MarkupCompile.cache
+U:\2A LeapMotion\projet-leapmotion-v2\LeapMotionDrawIT\DrawITApp\obj\Debug\DrawITApp_MarkupCompile.lref
+U:\2A LeapMotion\projet-leapmotion-v2\LeapMotionDrawIT\DrawITApp\obj\Debug\DrawITApp.exe
+U:\2A LeapMotion\projet-leapmotion-v2\LeapMotionDrawIT\DrawITApp\obj\Debug\DrawITApp.pdb
+U:\2A LeapMotion\projet-leapmotion-v2\LeapMotionDrawIT\DrawITApp\bin\Debug\DrawITApp.exe.config
+U:\2A LeapMotion\projet-leapmotion-v2\LeapMotionDrawIT\DrawITApp\bin\Debug\DrawITApp.exe
+U:\2A LeapMotion\projet-leapmotion-v2\LeapMotionDrawIT\DrawITApp\bin\Debug\DrawITApp.pdb
+U:\2A LeapMotion\projet-leapmotion-v2\LeapMotionDrawIT\DrawITApp\bin\Debug\Assembly-CSharp.dll
+U:\2A LeapMotion\projet-leapmotion-v2\LeapMotionDrawIT\DrawITApp\bin\Debug\UnityEngine.CoreModule.dll
+U:\2A LeapMotion\projet-leapmotion-v2\LeapMotionDrawIT\DrawITApp\obj\Debug\MainWindow.baml
+U:\2A LeapMotion\projet-leapmotion-v2\LeapMotionDrawIT\DrawITApp\obj\Debug\DrawITApp.g.resources
+U:\2A LeapMotion\projet-leapmotion-v2\LeapMotionDrawIT\DrawITApp\obj\Debug\DrawITApp.Properties.Resources.resources
+U:\2A LeapMotion\projet-leapmotion-v2\LeapMotionDrawIT\DrawITApp\obj\Debug\DrawITApp.csproj.GenerateResource.cache
+U:\2A LeapMotion\projet-leapmotion-v2\LeapMotionDrawIT\DrawITApp\obj\Debug\DrawITApp.csproj.CoreCompileInputs.cache
+U:\2A LeapMotion\projet-leapmotion-v2\LeapMotionDrawIT\DrawITApp\obj\Debug\DrawITApp.csproj.CopyComplete
+U:\2A LeapMotion\projet-leapmotion-v2\LeapMotionDrawIT\DrawITApp\obj\Debug\DrawITApp.csproj.AssemblyReference.cache
+U:\2A LeapMotion\projet-leapmotion-v2\LeapMotionDrawIT\DrawITApp\obj\Debug\Palette.g.cs
+U:\2A LeapMotion\projet-leapmotion-v2\LeapMotionDrawIT\DrawITApp\obj\Debug\Palette.baml
+U:\2\projet-leapmotion-v2\LeapMotionDrawIT\DrawITApp\bin\Debug\DrawITApp.exe.config
+U:\2\projet-leapmotion-v2\LeapMotionDrawIT\DrawITApp\bin\Debug\DrawITApp.exe
+U:\2\projet-leapmotion-v2\LeapMotionDrawIT\DrawITApp\bin\Debug\DrawITApp.pdb
+U:\2\projet-leapmotion-v2\LeapMotionDrawIT\DrawITApp\bin\Debug\Assembly-CSharp.dll
+U:\2\projet-leapmotion-v2\LeapMotionDrawIT\DrawITApp\bin\Debug\UnityEngine.CoreModule.dll
+U:\2\projet-leapmotion-v2\LeapMotionDrawIT\DrawITApp\obj\Debug\MainWindow.g.cs
+U:\2\projet-leapmotion-v2\LeapMotionDrawIT\DrawITApp\obj\Debug\Palette.g.cs
+U:\2\projet-leapmotion-v2\LeapMotionDrawIT\DrawITApp\obj\Debug\App.g.cs
+U:\2\projet-leapmotion-v2\LeapMotionDrawIT\DrawITApp\obj\Debug\DrawITApp_MarkupCompile.cache
+U:\2\projet-leapmotion-v2\LeapMotionDrawIT\DrawITApp\obj\Debug\DrawITApp_MarkupCompile.lref
+U:\2\projet-leapmotion-v2\LeapMotionDrawIT\DrawITApp\obj\Debug\MainWindow.baml
+U:\2\projet-leapmotion-v2\LeapMotionDrawIT\DrawITApp\obj\Debug\Palette.baml
+U:\2\projet-leapmotion-v2\LeapMotionDrawIT\DrawITApp\obj\Debug\DrawITApp.g.resources
+U:\2\projet-leapmotion-v2\LeapMotionDrawIT\DrawITApp\obj\Debug\DrawITApp.Properties.Resources.resources
+U:\2\projet-leapmotion-v2\LeapMotionDrawIT\DrawITApp\obj\Debug\DrawITApp.csproj.GenerateResource.cache
+U:\2\projet-leapmotion-v2\LeapMotionDrawIT\DrawITApp\obj\Debug\DrawITApp.csproj.CoreCompileInputs.cache
+U:\2\projet-leapmotion-v2\LeapMotionDrawIT\DrawITApp\obj\Debug\DrawITApp.csproj.CopyComplete
+U:\2\projet-leapmotion-v2\LeapMotionDrawIT\DrawITApp\obj\Debug\DrawITApp.exe
+U:\2\projet-leapmotion-v2\LeapMotionDrawIT\DrawITApp\obj\Debug\DrawITApp.pdb
+U:\2\projet-leapmotion-v2\LeapMotionDrawIT\DrawITApp\obj\Debug\DrawITApp_Content.g.cs
+U:\2\projet-leapmotion-v2\LeapMotionDrawIT\DrawITApp\obj\Debug\DrawITApp.csproj.AssemblyReference.cache
+U:\2A LeapMotion\projet-leapmotion-v2\LeapMotionDrawIT\DrawITApp\obj\Debug\DrawITApp_Content.g.cs
